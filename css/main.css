@@ -18,7 +18,7 @@
  *  10. intro
  *  11. about
  *  12. resume
- *  13. portfolio
+ *  13. updates
  *  14. call-to-action section
  *  15. services
  *  16. stats
@@ -1785,11 +1785,11 @@ header .logo a {
 
 /** 
  * ===================================================================
- * 13. portfolio - (_layout.scss)
+ * 13. updates - (_layout.scss)
  *
  * ------------------------------------------------------------------- 
  */
-#portfolio {
+#updates {
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
